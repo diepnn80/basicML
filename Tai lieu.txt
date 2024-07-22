@@ -18,15 +18,30 @@ I. Sách Lý thuyết: cho phần học máy và học sâu cơ bản (mua, ho�
 II. Hướng dẫn thực hành:
 1. Thực hành các thư viện:
 - Numpy:
-https://ml-course.github.io/master/notebooks/Tutorial%202%20-%20Python%20for%20Data%20Analysis.html#numpy
+    https://ml-course.github.io/master/notebooks/Tutorial%202%20-%20Python%20for%20Data%20Analysis.html#numpy
 - Pandas:
-https://ml-course.github.io/master/notebooks/Tutorial%202%20-%20Python%20for%20Data%20Analysis.html#pandas
+    https://ml-course.github.io/master/notebooks/Tutorial%202%20-%20Python%20for%20Data%20Analysis.html#pandas
 
 2. Thực hành các mô hình học máy cơ bản
+- Các mô hình học máy
+    Load dữ liệu và thử bộ phân lớp Naive Bayes
+    https://scipy-lectures.org/packages/scikit-learn/auto_examples/plot_iris_knn.html#sphx-glr-packages-scikit-learn-auto-examples-plot-iris-knn-py
+    https://scipy-lectures.org/packages/scikit-learn/#supervised-learning-classification-of-handwritten-digits
+- Thử nghiệm các bộ phân lớp với nhiều tham số khác nhau:
+    https://scipy-lectures.org/packages/scikit-learn/auto_examples/plot_compare_classifiers.html#sphx-glr-packages-scikit-learn-auto-examples-plot-compare-classifiers-py
 - Các kỹ thuật Tiền xử lý và tối ưu
-https://ml-course.github.io/master/notebooks/06%20-%20Data%20Preprocessing.html
+    https://ml-course.github.io/master/notebooks/06%20-%20Data%20Preprocessing.html
+- Tối ưu hiệu năng mô hình học máy theo các cách phân chia dữ liệu và độ đo khác nhau.
+    https://ml-course.github.io/master/notebooks/04%20-%20Model%20Selection.html#performance-estimation-techniques
+- Đánh giá hiệu năng mô hình học máy theo các độ đo khác nhau.
+    https://ml-course.github.io/master/notebooks/04%20-%20Model%20Selection.html#evaluation-metrics-for-classification
+- Tối ưu tham số mô hình với Gridsearch
+	https://github.com/justmarkham/scikit-learn-videos/blob/master/08_grid_search.ipynb
+
 3. Thực hành học sâu
 - Thực hành mạng nơ ron với MNIST dataset
-https://ml-course.github.io/master/notebooks/08%20-%20Neural%20Networks.html#neural-networks-in-practice
+    https://ml-course.github.io/master/notebooks/08%20-%20Neural%20Networks.html#neural-networks-in-practice
+- Thực hành MLP trong scikit learn và Keras. Finetune tham số sử dụng keras tuner
+    https://github.com/ageron/handson-ml3/blob/main/10_neural_nets_with_keras.ipynb
 - Thực hành mạng CNN
-https://ml-course.github.io/master/notebooks/09%20-%20Convolutional%20Neural%20Networks.html#convolutional-nets-in-practice
+    https://ml-course.github.io/master/notebooks/09%20-%20Convolutional%20Neural%20Networks.html#convolutional-nets-in-practice
