@@ -1,0 +1,32 @@
+Học liệu cho Phần 1 - Cơ sở về Học máy và Học sâu
+
+I. Sách Lý thuyết: cho phần học máy và học sâu cơ bản (mua, hoặc tìm trên Internet có):
+- Tiếng Anh
+1. Introduction to Machine Learning with Python, Andreas C. Müller & Sarah Guido, 2017.
+2. Deep Learning with Python, François Chollet, 2017
+- Tiếng Việt:
+1. Giáo trình nhập môn Trí tuệ nhân tạo
+    https://github.com/0xl4p/Giao-Trinh-PTIT/blob/main/Nh%E1%BA%ADp%20m%C3%B4n%20tr%C3%AD%20tu%E1%BB%87%20nh%C3%A2n%20t%E1%BA%A1o%20-%202015.pdf
+2. Học máy cơ bản
+    https://machinelearningcoban.com/
+    Tham khảo cho các khái niệm về học máy, thuật toán học máy, học sâu cơ bản, các kỹ thuật xử lý dữ liệu và độ đo, đánh giá hiệu năng.
+3. Khoa học dữ liệu - Khanh's blog
+    Tham khảo cho các khái niệm về học máy, thuật toán học máy, học sâu cơ bản, các kỹ thuật xử lý dữ liệu và độ đo, đánh giá hiệu năng.
+4. Sách Đắm mình vào học sâu/ Dive into Deep Learning
+    https://vi.d2l.ai/
+
+II. Hướng dẫn thực hành:
+1. Thực hành các thư viện:
+- Numpy:
+https://ml-course.github.io/master/notebooks/Tutorial%202%20-%20Python%20for%20Data%20Analysis.html#numpy
+- Pandas:
+https://ml-course.github.io/master/notebooks/Tutorial%202%20-%20Python%20for%20Data%20Analysis.html#pandas
+
+2. Thực hành các mô hình học máy cơ bản
+- Các kỹ thuật Tiền xử lý và tối ưu
+https://ml-course.github.io/master/notebooks/06%20-%20Data%20Preprocessing.html
+3. Thực hành học sâu
+- Thực hành mạng nơ ron với MNIST dataset
+https://ml-course.github.io/master/notebooks/08%20-%20Neural%20Networks.html#neural-networks-in-practice
+- Thực hành mạng CNN
+https://ml-course.github.io/master/notebooks/09%20-%20Convolutional%20Neural%20Networks.html#convolutional-nets-in-practice
