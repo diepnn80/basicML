@@ -1,4 +1,4 @@
-Học liệu cho Phần 1 - Cơ sở về Học máy và Học sâu
+Học liệu và Thực hành cho Phần 1 - Cơ sở về Học máy và Học sâu
 
 I. Sách Lý thuyết: cho phần học máy và học sâu cơ bản (mua, hoặc tìm trên Internet có):
 - Tiếng Anh
@@ -45,3 +45,20 @@ II. Hướng dẫn thực hành:
     https://github.com/ageron/handson-ml3/blob/main/10_neural_nets_with_keras.ipynb
 - Thực hành mạng CNN
     https://ml-course.github.io/master/notebooks/09%20-%20Convolutional%20Neural%20Networks.html#convolutional-nets-in-practice
+
+4. Mini Project cho Phần 1: (Sử dụng Jupyter notebook để viết báo cáo và thử nghiệm)
+- Chọn 1 tập dữ liệu /bài toán trong thực tế
+- Thử nghiệm các kiến thức học máy cơ bản để xây dựng mô hình, tối ưu hiệu năng, với các bước:
+    + Xác định bài toán học máy phù hợp
+    + Phân tích, khai phá dữ liệu
+    + Thử nghiệm mô hình với các kĩ thuật đã học
+    + Thử train toàn bộ tập dữ liệu với mô hình, đánh giá khả năng mô hình, độ phù hợp của dữ liệu
+    + Train/test và đánh giá mô hình
+    + K cross validation tốt hơn train test split như nào?
+    + Thử nghiệm các phương pháp tiền xử lý dữ liệu. Phân tích, đánh giá khả năng áp dụng từng kĩ thuật.
+    + Thử nghiệm kĩ thuật lựa chọn đặc trưng và đưa ra tập đặc trưng
+    + Thử nghiệm các phương pháp xử lý dữ liệu mất cân bằng (nếu dữ liệu mất cân bằng)
+    + Thử nghiệm các độ đo phân lớp
+    + Thử nghiệm các mô hình khác trên tập dữ liệu
+    + Gridsearch để tự động tìm tham số tối ưu cho các mô hình?
+- Thử nghiệm tương tự với mô hình học sâu
