@@ -1,11 +1,11 @@
-HƯỚNG DẪN LÀM BÀI MINI PROJECT CHO PHẦN 1 - KHÓA HỌC ML4IS
+HƯỚNG DẪN LÀM BÀI MINI PROJECT CHO PHẦN 1
 
 1. Chọn dataset: 
 - Các dataset không nên ít sample quá, không nên sạch quá (chưa tiền xử lý). Dữ liệu nên là số, hoặc text, phù hợp với bài toán phân lớp cho nhiều lớp.
 - Khuyến nghị chọn trong các tập dataset ở đây: https://www.kaggle.com/datasets?sort=votes&sizeStart=1%2CKB&sizeEnd=1%2CMB&tags=14202-Multiclass+Classification&minUsabilityRating=8.00+or+higher
 
 2. Chia nhóm
-Chia nhóm giống như cách chia nhóm của thầy Dậu (Phần 2)
+Chia nhóm giống như cách chia nhóm cho Mini project của Phần 2
 
 3. Định dạng yêu cầu: Báo cáo mini project
 - Tên file: Bao cao mini project_Phan 1_Nhom_x.pdf (x là số hiệu nhóm)
