@@ -1,0 +1,39 @@
+HƯỚNG DẪN LÀM BÀI MINI PROJECT CHO PHẦN 1 - KHÓA HỌC ML4IS
+
+1. Chọn dataset: 
+- Các dataset không nên ít sample quá, không nên sạch quá (chưa tiền xử lý). Dữ liệu nên là số, hoặc text, phù hợp với bài toán phân lớp cho nhiều lớp.
+- Khuyến nghị chọn trong các tập dataset ở đây: https://www.kaggle.com/datasets?sort=votes&sizeStart=1%2CKB&sizeEnd=1%2CMB&tags=14202-Multiclass+Classification&minUsabilityRating=8.00+or+higher
+
+2. Chia nhóm
+Chia nhóm giống như cách chia nhóm của thầy Dậu (Phần 2)
+
+3. Định dạng yêu cầu: Báo cáo mini project
+- Tên file: Bao cao mini project_Phan 1_Nhom_x.pdf (x là số hiệu nhóm)
+- In ra giấy (nếu được)
+- Deadline: Nộp trước buổi học thứ 6 (31/7)
+- Độ dài: tầm 10-15 trang
+- Cách trình bày
++ Trang bìa:  
+TÊN KHÓA HỌC
+BÁO CÁO MINI PROJECT - PHẦN 1
+NHÓM [X]
+Thành viên: Mỗi dòng là tên 1 thành viên - ID Samsung của thành viên 
+Hà Nội, tháng/năm (dòng cuối)
++ Trang 2: Mục lục
++ Trang 3 trở đi 
+Trình bày các nội dung theo các phân tích. Bao gồm:
+	1. Mô tả bài toán: mô tả về bài toán (dựa trên tập dữ liệu), mục tiêu, xác định bài toán học máy phù hợp để giải quyết bài toán đặt ra ban đầu
+	2. Mô tả tập dữ liệu
+	Mô tả tóm tắt về tập dữ liệu. 
+	Thực hiện các phân tích và khai phá dữ liệu
+	3. Xây dựng mô hình, thử nghiệm, đánh giá
+	Thực hiện xây dựng, thử nghiệm mô hình với các kĩ thuật đã học. Nên bao gồm các mục con như ở dưới. Mỗi bước nên có nhận xét, phân tích các hoạt động, sau đó đánh giá ý nghĩa của các kết quả.
+		* Thử train toàn bộ tập dữ liệu với mô hình, đánh giá khả năng mô hình, độ phù hợp của dữ liệu
+		* Đánh giá mô hình với các kiểu phân chia dữ liệu
+		* Thử nghiệm các phương pháp tiền xử lý dữ liệu. Phân tích, đánh giá khả năng áp dụng từng kĩ thuật.
+		* Thử nghiệm kĩ thuật lựa chọn đặc trưng và đưa ra tập đặc trưng
+		* Thử nghiệm các phương pháp xử lý dữ liệu mất cân bằng (nếu dữ liệu mất cân bằng)
+		* Thử nghiệm các độ đo phân lớp
+		* Thử nghiệm các mô hình khác trên tập dữ liệu
+		* Gridsearch để tự động tìm tham số tối ưu cho các mô hình?
+	+ Trang cuối: Kết luận
